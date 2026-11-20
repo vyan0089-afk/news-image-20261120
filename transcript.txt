@@ -1,0 +1,149 @@
+THE TWENTIETH — transcript of research for "Sum up 20 November's world news in one image"
+Friday 20 November 2026. Every story below happened, or was first reported, on Fri 20 Nov 2026
+in at least one timezone. Items first reported on Thu 19 Nov 2026 are listed at the end under
+"NOT 20 NOVEMBER — excluded" and do NOT appear as news in the image (they appear only in the
+red DATE CHECK box as exclusions). Sources are the outlets that reported each item on 20 Nov.
+
+01. CYCLONE AKVAN HITS ODISHA — Severe Cyclone Akvan crossed the north Andhra Pradesh / south
+    Odisha coast near Gopalpur on Friday morning, winds 70-80 km/h gusting 90; 300,000+ people
+    evacuated to 9,341 shelters, 69 trains cancelled, no deaths reported by midday.
+    Sources: Reuters; The Hindu BusinessLine (20 Nov); India Meteorological Department.
+02. KYIV BRIDGES STRUCK OVERNIGHT — Russia fired 110+ missiles and ~400 drones at Ukraine
+    overnight into Friday; three Kyiv bridges over the Dnipro hit (Podilsko-Voskresenskyi,
+    Darnytskyi, Pivdennyi), 3 killed and 15 hurt in Kyiv, 8 killed nationwide; Poland scrambled
+    jets after airspace violations. Sources: Reuters; CNN (20 Nov).
+03. COP31 DEADLOCK ON CLOSING DAY — Climate talks in Antalya enter their scheduled final day
+    with no deal: the slimmed draft (144 to 80 paragraphs) drops every mention of fossil fuels
+    and the $120bn adaptation-finance figure; 21 issues unresolved; overtime expected.
+    Sources: CNN; Reuters; AsiaToday (20 Nov).
+04. ASIA'S AI SELL-OFF DEEPENS — Asian shares tumble Friday: Nikkei -4.8% (-5%), Taiwan Taiex
+    -6.75% (worst week since 1990, -17% on the week), Kospi -5.7%, SoftBank -14.6%; MSCI
+    Asia-Pacific heads for its worst week since 2020. Sources: Reuters; Morningstar/Dow Jones (20 Nov).
+05. ANTHROPIC SLIDES ON DAY TWO — Anthropic (ANT) falls in early 20 Nov trading, pre-market
+    $90.19, -7.2% vs its $97.17 close; the record debut itself was Thursday 19 Nov (opened
+    $111.50, closed +17% on the $83 IPO price). Sources: Finnhub quote snapshot 20 Nov; Investopedia.
+06. POLAND SCRAMBLES JETS — Polish jets scrambled and Patriot defences activated early Friday
+    after objects crossed into Polish airspace during the Russian attack on Ukraine.
+    Source: CNN (20 Nov).
+07. GAZA: NEW DISPLACEMENT IN CENTRAL GAZA — Israeli ground operation around Bureij and
+    Nuseirat displaces thousands more families as winter storms flood tent camps; ~950,000
+    Palestinians live in flood-prone areas. Source: Gaza Herald (20 Nov).
+08. BERLIN: ALLIES MEET ON UKRAINE — The coalition of the willing meets in Berlin; leaders say
+    Europe has a united position for talks with Russia; US envoy says Trump is open to a
+    NATO-style security guarantee for Ukraine. Sources: BBC; France 24 (20 Nov).
+09. CALIFORNIA PROBES NVIDIA — California's attorney general subpoenas Nvidia over whether
+    advanced chips or confidential data reached China, after CEO Jensen Huang's resignation.
+    Sources: BBC; CNBC (20 Nov).
+10. DRC EBOLA OUTBREAK PERSISTS — The Ebola outbreak in DR Congo continues six months on,
+    spreading amid armed attacks on civilians and health workers hampering the response.
+    Source: UN Geneva Newsroom (Fri 20 Nov).
+11. JAPAN INFLATION KEEPS HIKE ON TRACK — Japan's core CPI rose 2.2% year-on-year in October,
+    its highest this year, keeping a Bank of Japan rate rise in view; yen near 159 per dollar.
+    Sources: Japan Times; CNBC; Morningstar/Dow Jones (20 Nov).
+12. MAKE.FUN OPENS TODAY'S CONTEST — make.fun opens this very competition, "Sum up 20
+    November's world news in one image", at 00:00 UTC on 20 Nov; $250 in USDC locked in its
+    Solana escrow at 00:00:40 UTC; 7,000+ entries by Friday. Source: make.fun bounty page
+    (news-image-20261120), escrow record 2026-11-20 00:00:40 UTC.
+13. SENEGAL BOAT CAPSIZES — A migrant boat carrying 50-100 people sinks off Yenne, Senegal;
+    at least 4 bodies recovered, dozens missing; Canary Islands arrivals up nearly two-thirds.
+    Sources: BBC; Al Jazeera (20 Nov).
+14. HAITI RAID KILLS 34 — Haitian security forces launch an offensive to retake Martissant,
+    the corridor out of Port-au-Prince; police say at least 34 suspected gang members killed.
+    Sources: Al Jazeera; France 24 (20 Nov).
+15. UK PLEDGES 1,000+ DRONES FOR UKRAINE — Britain pledges over 1,000 long-range drones for
+    Ukraine in a 260 million pound package, announced in Berlin. Source: UK government via
+    AppiSToS world round-up (20 Nov).
+16. ESTONIA TO CLOSE RUSSIA BORDER — Estonia announces it will close border crossings with
+    Russia from December after an attempted attack on a defence company. Source: Munich Eye (20 Nov).
+17. EU TO SUMMON RUSSIAN ENVOY — EU foreign-policy chief Kaja Kallas says the EU will summon
+    Russia's envoy over damage to EU embassies in Kyiv. Source: AppiSToS (20 Nov).
+18. TRUMP PARDONS PETE ROSE — President Trump posthumously pardons late baseball star Pete
+    Rose, banned for betting and holder of the career hits record. Sources: BBC; UPI (20 Nov).
+19. US SENATE PASSES ENERGY BILL 62-33 — The Senate passes a bill overhauling federal
+    permitting for energy projects; it must still clear the House. Sources: CNBC; Straits Times (20 Nov).
+20. US SANCTIONS COMANCHEROS AND 'NDRANGHETA — The US sanctions the Comancheros gang and the
+    'Ndrangheta crime group, blocking assets under US jurisdiction. Source: US Treasury via
+    AppiSToS (20 Nov).
+21. US JOBLESS CLAIMS RISE — US jobless claims unexpectedly move higher. Source: Dow Jones
+    Newswires via Morningstar (20 Nov).
+22. SOUTH AFRICA HOLDS RATE AT 7.25% — The South African Reserve Bank maintains its main repo
+    rate at 7.25%. Source: Dow Jones Newswires via Morningstar (20 Nov).
+23. GOLD FALLS 4.2% — Gold falls 4.2% in a day, down about 11% in a month, as a strong dollar
+    and US 10-year yields above 5% weigh. Source: CNBC (20 Nov).
+24. BRAZIL SELLS $1BN TO CURB DOLLAR — Brazil's central bank sells $1 billion of reserves as
+    the dollar nears 5.93 reais; the real is down about 18% in a month. Source: MercoPress (20 Nov).
+25. SUDAN DRONE STRIKE KILLS 10 — A drone strike on the Bajoun gold-mining site in South
+    Kordofan kills at least 10; Amnesty calls for investigation of RSF drone attacks on
+    civilians as possible war crimes. Source: AllAfrica (20 Nov).
+26. IRAQ ORDERS MILITIA OUT — Iraq's prime minister gives Kataib Hezbollah until Friday to
+    leave Jurf al-Nasr, amid alleged oil smuggling and US pressure. Sources: Euronews; DW (20 Nov).
+27. PAKISTAN KILLS 22 MILITANTS — Pakistan's military kills 22 militants in raids on hideouts
+    in Khyber Pakhtunkhwa near the Afghan border. Sources: The Hindu; Yonhap (20 Nov).
+28. ZIMBABWE DESTROYS 250,000TH LANDMINE — HALO Trust says it has destroyed 250,000 landmines
+    in Zimbabwe; funding gaps threaten the 2030 clearance goal. Source: Africanews (20 Nov).
+29. UN CHIEF RACE STALLS — The race for UN secretary-general stalls after eight Security
+    Council votes with no agreement on a successor to Guterres. Sources: The Guardian;
+    Japan Times (20 Nov).
+30. MOSQUE SET ON FIRE IN NORTHERN ISRAEL — A mosque in al-Dahi is set on fire and Hebrew
+    graffiti sprayed on its walls; eight hurt when a driver rams Palestinians in Kafr Qasim.
+    Sources: Middle East Eye; Al Jazeera (20 Nov).
+31. EL NINO STORM THREATENS LOS ANGELES — A storm raises flood and mudslide threats across
+    Los Angeles, with possible evacuations; coastal erosion worsens. Sources: Straits Times;
+    Le Monde (20 Nov).
+32. ARGENTINA PASSES DISABILITY LAW — Argentina's Senate unanimously approves a permanent
+    disability framework, 71 senators in favour. Source: AppiSToS (20 Nov).
+33. SPAIN: STUDENTS STRIKE — Students across Spain strike and demonstrate at noon in a
+    European day of action over living costs; doctors' and cleaners' strikes continue.
+    Source: CatalunyaInfo (20 Nov).
+34. PRAGUE PROTESTS FOR FREE MEDIA — Protesters in Prague demand media independence.
+    Source: Munich Eye (20 Nov).
+35. STACY KEACH DIES AT 85 — American actor Stacy Keach dies at 85. Source: Munich Eye (20 Nov).
+36. WHITE HOUSE NAMES NEW CYBER CHIEF — The White House taps Pentagon CIO Kirsten Davies as
+    national cyber director after Sean Cairncross is fired following a week of tech outages.
+    Sources: France 24; DW (20 Nov).
+37. UK-EU SUMMIT: YOUTH MOBILITY EXPECTED [FORECAST] — Britain and the EU are expected to
+    approve a youth mobility scheme at Friday's Brussels summit; food-trade and carbon deals
+    also on the table. Sources: BBC; The Guardian (20 Nov).
+38. INDIA BOWLS OUT NEW ZEALAND — India bundles out New Zealand in the day's cricket.
+    Source: myKhel sports bulletin (20 Nov).
+39. TAKAICHI GETS COOL APEC RECEPTION — Japan's PM Sanae Takaichi receives a subdued welcome
+    in Shenzhen, her first visit by a Japanese leader since 2019, as China-Japan ties stay
+    strained over Taiwan. Sources: CNBC; Yonhap (20 Nov).
+40. EUROPE'S YOUTH STRIKE — A youth-led coalition says young people in more than 25 countries
+    join protests on 20 November against living costs and militarisation. Sources: Straits
+    Times; NZZ (20 Nov).
+
+NOT 20 NOVEMBER — excluded from the news (named in the image's red DATE CHECK box only):
+- Shenzhen Trump-Xi-Putin summit and joint declaration — Thu 19 Nov (BBC/Guardian).
+- Anthropic IPO pricing $83 and first-day close +17% at $97.17 — Thu 19 Nov (Investopedia/WSJ).
+- ICJ ruling that Myanmar committed genocide against the Rohingya, 9-6 — Thu 19 Nov (BBC).
+- GTA VI midnight launch and $2.3bn sales estimate — Thu 19 Nov (BBC).
+- Van Gogh painting sold for $190.4m — 19 Nov.
+- Voyager 1 reaching one light-day from Earth — 19 Nov (NASA).
+- US Senate 48-51 vote rejecting Iran war-powers resolution — 19 Nov.
+- EU 45bn euro Ukraine loan — 19 Nov.
+- Crimea (Kerch) bridge attack, third this week — 19 Nov.
+- Riyadh PIF tower missile attack — 19 Nov.
+- Colombia tax-reform protests — 19 Nov.
+- Fiji drought disaster declaration — 19 Nov.
+- South Korea: Han Duck-soo retrial ordered — 19 Nov (Japan Times/CBC).
+- US-Venezuela military cooperation deal signed in Caracas — 19 Nov.
+- Wall Street 2% drop (S&P 500, fifth straight day) — Thu 19 Nov session.
+- COP31 second draft (144 to 80 paragraphs, fossil fuels removed) — published Thu 19 Nov.
+- Peres Jepchirchir three-year doping ban — announced Thu 19 Nov (AIU/Reuters).
+- Somalia expels UAE ambassador — 19 Nov (OkayAfrica).
+- Spain general strike over housing — Wed 11 Nov, not 20 Nov (Al Jazeera/Reuters).
+- BepiColombo reaching Mercury orbit; Denmark ratifies Greenland deal; Ethiopia-Eritrea
+  Badme strikes; Kenya's last Ebola patient discharged (11 Nov) — all first reported 19 Nov
+  or earlier, not 20 Nov.
+
+NOT YET HAPPENED AT PRESS TIME (also in the image): any COP31 final agreement; Asia's
+closing share prices after the European morning; the UK-EU summit outcome (see story 37,
+labelled FORECAST in the image).
+
+MAKE.FUN NOTE: no make.fun announcement, X post or payout dated 20 Nov 2026 was found in
+web search (searched make.fun announcements and @makefunai posts, 20 Nov 2026). The
+make.fun story in this entry (no. 12) is therefore the verifiable 20-Nov fact on
+make.fun's own bounty page: this contest opened at 00:00 UTC on 20 Nov 2026 with its
+$250 USDC escrow locked at 00:00:40 UTC. No make.fun X post or announcement has been
+invented.
